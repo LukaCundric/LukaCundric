@@ -1,7 +1,7 @@
 # About me:
 
 <h4>
-Hi! My name is Luka Cundrič. I am a 3rd year Computer scinect high school studient who likes to programming and building projects and databases. I also love driving with my motorcross, and play with arduino.
+Hi! My name is Luka Cundrič. I am a 3rd year Computer science high school studient who likes to programming and building projects and databases. I also love driving with my motorcross, and play with arduino.
 </h4>
 
 ## 📚📚I Am Currently Learning:📚📚
