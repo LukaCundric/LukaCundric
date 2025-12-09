@@ -10,7 +10,6 @@ Hi! My name is Luka Cundrič. I am a 3rd year Computer science high school studi
 
 ## 🔤🔤I`m Also Learning Programing Languages:🔤🔤
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🌐🌐For Web Development I`m Learning:🌐🌐
