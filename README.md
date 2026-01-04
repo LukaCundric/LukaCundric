@@ -27,5 +27,5 @@ Hi! My name is Luka Cundrič. I am a 3rd year Computer science high school studi
 <br>
 
 ## 📧📧My Email:📧📧
-<a href="luka.cundric@gmail.com" target="_blank">luka.cundric@gmail.com</a> 
+<a href="luka.cundric@tscng.org" target="_blank">luka.cundric@tscng.org</a> 
 
